@@ -1,6 +1,3 @@
-# CS50
-Repositório com a resolução dos problemas e labs do curso CS50.  // A repository with the problems set and labs from CS50 course 
-
 
 Caesar é um algoritmo que criptografa um texto fornecido pelo usuário, adicionando em suas letras o valor das chaves digitadas pelo usuário ao executar o programa.
 
